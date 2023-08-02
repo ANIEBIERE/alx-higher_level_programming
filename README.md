@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-Starting My Higher-Level Programming
+readme for 0x15-javascript-web_jquery
